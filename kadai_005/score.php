@@ -6,18 +6,18 @@
 <body>
   <p>
     <?php
-      $scoer1 = 80;
-      $scoer2 = 60;
-      $scoer3 = 55;
-      $scoer4 = 40;
-      $scoer5 = 100;
-      $scoer6 = 25;
-      $scoer7 = 80;
-      $scoer8 = 95;
-      $scoer9 = 30;
-      $scoer10 = 60;
+      $score1 = 80;
+      $score2 = 60;
+      $score3 = 55;
+      $score4 = 40;
+      $score5 = 100;
+      $score6 = 25;
+      $score7 = 80;
+      $score8 = 95;
+      $score9 = 30;
+      $score10 = 60;
 
-      $total = $scoer1 + $scoer2 + $scoer3 + $scoer4 + $scoer5 + $scoer6 + $scoer7 + $scoer8 + $scoer9 + $scoer10;
+      $total = $score1 + $score2 + $score3 + $score4 + $score5 + $score6 + $score7 + $score8 + $score9 + $score10;
 
       $average_score = $total / 10;  
       
