@@ -15,7 +15,7 @@
 
           function sort_2way($order) {
 
-            $array = array(15, 4, 18, 23, 10);
+            $array = [15, 4, 18, 23, 10];
 
             if ($order === '昇順ソート') {
 
