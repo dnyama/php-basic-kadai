@@ -13,9 +13,6 @@
           $array = [15, 4, 18, 23, 10];
 
           function sort_2way($array, $order) {
-
-            $array = [15, 4, 18, 23, 10];
-
             if ($order) {
                 echo '昇順にソートします。<br>';
                 sort($array);
